@@ -44,12 +44,14 @@ src/
 
    3. Compile o projeto:
 
-      bash
+      bash:
+      
       javac br/com/Main.java
 
-   4. Execute:
+   5. Execute:
 
-      bash
+      bash:
+      
       java br.com.Main
 
 
