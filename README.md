@@ -41,12 +41,14 @@ src/
    2. Clone o repositório:
 
       git clone: [https://github.com/Efra85/SISTEMA-GESTOR-DE-USUARIOS-COM-DB-LOCAL.git]
+      
 
-   3. Compile o projeto:
+   4. Compile o projeto:
 
       bash:
       
       javac br/com/Main.java
+      
 
    5. Execute:
 
