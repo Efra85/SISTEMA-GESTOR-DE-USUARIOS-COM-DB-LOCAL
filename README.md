@@ -40,7 +40,7 @@ src/
 
    2. Clone o repositório:
 
-   git clone: [https://github.com/Efra85/SISTEMA-GESTOR-DE-USUARIOS-COM-DB-LOCAL.git]
+      git clone: [https://github.com/Efra85/SISTEMA-GESTOR-DE-USUARIOS-COM-DB-LOCAL.git]
 
    3. Compile o projeto:
 
